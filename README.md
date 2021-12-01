@@ -1,5 +1,5 @@
 # Welcome 👋
-I'm Benjamin, a junior fullstack developer from Framce.
+I'm Benjamin, a junior fullstack developer from France.
 
 ## Languages I speak
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
