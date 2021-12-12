@@ -2,8 +2,9 @@
 ### A junior fullstack developer
 I'm from France, Ile-de-France (Paris area). I'm looking for a internship (4-6 months) that should start mid febrary.
 
+- 🌱 I’m currently learning at Wild Code School of Paris fullstack web developper course.
 - 🔭 I’m currently working on several project to improve my skill in front and back. 
-- 🌱 I’m currently learning at Wild Code School of Paris fullstack web developper course.  
+ 
 
 ## Languages I speak
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
