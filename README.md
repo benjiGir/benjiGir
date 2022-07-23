@@ -2,7 +2,7 @@
 ### A junior fullstack developer
 I'm from France, Ile-de-France (Paris area).
 
-- 🌱 I’m currently learning at Wild Code School of Paris fullstack web developper course.
+- :computer: I'm currently doing my internship@Implicity (Telemonitoring cardiology).
 - 🔭 I’m currently working on several project to improve my skill in front and back. 
  
 
