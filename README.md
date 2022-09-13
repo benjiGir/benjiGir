@@ -2,8 +2,8 @@
 ### A junior fullstack developer
 I'm from France, Ile-de-France (Paris area).
 
-- :computer: I'm currently doing my internship@Implicity (Telemonitoring cardiology).
-- 🔭 I’m currently working on several project to improve my skill in front and back. 
+- :computer: I finished my internship@Implicity (Telemonitoring cardiology).
+- :computer: I'm currently working at Ecocea la Frabrique (Paris).
  
 
 ## Languages I speak
