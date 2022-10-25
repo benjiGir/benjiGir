@@ -3,7 +3,7 @@
 I'm from France, Ile-de-France (Paris area).
 
 - :computer: I finished my internship@Implicity (Telemonitoring cardiology).
-- :computer: I'm currently working at Ecocea la Frabrique (Paris).
+- :computer: I'm currently working at Ecocea la Fabrique (Paris).
  
 
 ## Languages I speak
